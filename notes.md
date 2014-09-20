@@ -32,10 +32,8 @@
  - © 2014 Documentary Airways
 
 ### About
-
 - 구름 이미지 (tentative)
--
-We do what we know best<br>
+- We do what we know best<br>
 Based in Seoul, Documentary Airways specializes in flying Asian documentaries worldwide. As a boutique sales & consulting agency, we represent well-made cinematic documentary films. We put the emphasis on connecting films that embody Asian perspectives to the audiences across the continents and oceans.
 
 ### News
