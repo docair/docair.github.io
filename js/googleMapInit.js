@@ -7,7 +7,7 @@ function initialize() {
     var map_canvas = document.getElementById('googleMap');
 
     var map_options = {
-        center: new google.maps.LatLng(44.434596, 26.080533),
+        center: new google.maps.LatLng(37.5627911, 126.992685),
         zoom: 16,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         scrollwheel: false
@@ -15,7 +15,7 @@ function initialize() {
 
     var map = new google.maps.Map(map_canvas, map_options);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(44.434596, 26.080533),
+        position: new google.maps.LatLng(37.5627911, 126.992685),
         map: map,
         title: 'Hello World!'
     });
@@ -85,7 +85,7 @@ function initialize() {
         },{
         }
     ]
-    map.setOptions({styles: styles});
+    //map.setOptions({styles: styles});
 }
 google.maps.event.addDomListener(window, 'load', initialize);
 
